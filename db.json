@@ -256,6 +256,19 @@
       "poster": "https://i.ytimg.com/vi/Me3ea4nUt0U/maxresdefault.jpg",
       "description": "Como iniciar a carreira Devops"
     }
+      "videocategories": [
+    {
+      "id": 1,
+      "title": "Front-End",
+    },
+    {
+      "id": 2,
+      "title": "Back-End",
+    },
+    {
+      "id": 3,
+      "title": "Devops,
+    },
   ]
     
 }
