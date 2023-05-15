@@ -260,16 +260,15 @@
       "videocategories": [
     {
       "id": 1,
-      "title": "Front-End",
+      "title": "Front-End"
     },
     {
       "id": 2,
-      "title": "Back-End",
+      "title": "Back-End"
     },
     {
       "id": 3,
-      "title": "Devops,
+      "title": "Devops"
     }
   ]
-    
 }
