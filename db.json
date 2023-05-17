@@ -260,15 +260,18 @@
       "videocategories": [
     {
       "id": 1,
-      "title": "Frontend"
+      "title": "Frontend",
+      "color": "#B3F7F6"
     },
     {
       "id": 2,
-      "title": "Backend"
+      "title": "Backend",
+      "color": "#7DD076"
     },
     {
       "id": 3,
-      "title": "Devops"
+      "title": "Devops",
+      "color": "#F1F592"
     }
   ]
 }
